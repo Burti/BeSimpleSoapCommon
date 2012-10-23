@@ -1,8 +1,8 @@
 {
-    "name": "burti/besimple/soap-common",
+    "name": "burti/besimple-soap-common",
     "type": "symfony-bundle",
     "description": "Build and consume SOAP Common based web services with Symfony2",
-    "keywords": [ "soap", "soap-server" ],
+    "keywords": [ "soap", "soap-common" ],
     "homepage": "https://github.com/Burti/BeSimpleSoapCommon",
     "authors": [
         {
