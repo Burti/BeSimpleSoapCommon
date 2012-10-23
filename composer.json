@@ -16,7 +16,7 @@
         "burti/vfsstream": "dev-master"
     },
     "autoload": {
-        "psr-0": { "BeSimple\\SoapCommon": "" }
+        "psr-0": { "BeSimple\\SoapCommon": "src/" }
     },
-    "target-dir": "BeSimple/SoapCommon"
+    "target-dir": ""
 }
