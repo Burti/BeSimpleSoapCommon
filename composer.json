@@ -4,6 +4,8 @@
     "description": "Build and consume SOAP Common based web services with Symfony2",
     "keywords": [ "soap", "soap-common" ],
     "homepage": "https://github.com/Burti/BeSimpleSoapCommon",
+    "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Caio Paiola",
